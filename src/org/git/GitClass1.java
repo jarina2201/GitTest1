@@ -19,6 +19,11 @@ public class GitClass1 {
 		
 		System.out.println(l);
 		
+		List l2= new ArrayList();
+		l2.addAll(l);
+		
+		System.out.println(l2);
+		
 		int num;
 		System.out.println("Enter the number for multiplication table :");
 		
