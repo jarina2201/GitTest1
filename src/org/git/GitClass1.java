@@ -30,6 +30,9 @@ public class GitClass1 {
 			System.out.println(num+"*"+i+"="+num*i);
 		}
 		
+		String s = "Jarina";
+		
+		System.out.println(s);
 		
 		
 		
